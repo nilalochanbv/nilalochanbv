@@ -9,10 +9,10 @@
   <a href="https://www.linkedin.com/in/nilalochanbv/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:nilalochanbv@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://nilalochanbv.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -41,13 +41,10 @@
 
 ### 📌 Current Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [Project One](#) | Short one-line description of what it does | React, Node.js |
-| [Project Two](#) | Short one-line description of what it does | Python, Flask |
-| [Project Three](#) | Short one-line description of what it does | Java, Spring Boot |
-
-> Replace with links to your top 3 pinned repositories.
+| [DialectDB](https://github.com/nilalochanbv/DialectDB-Intelligent-Database-Workspace) | Production-grade AI Database Copilot featuring NL-to-SQL, multi-database support, and query optimization | TypeScript, React, Node.js |
+| [codesync-ai](https://github.com/nilalochanbv/codesync-ai) | Real-time collaborative code editor inspired by VS Code Live Share and Replit Multiplayer | TypeScript, React, WebSockets |
+| [Smart Leaf Scanner](https://github.com/nilalochanbv/Smart-Leaf-Scanner-and-AI-Advisory-System-using-Gemini-Ai) | AI advisory and scanning system utilizing Gemini AI to diagnose plant diseases and offer suggestions | Python, Gemini AI |
+| [nano-link](https://github.com/nilalochanbv/nano-link) | Fast, lightweight URL shortener service to transform long URLs into clean, compact links | TypeScript, Node.js, Express |
 
 ---
 
