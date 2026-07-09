@@ -41,19 +41,18 @@
 
 ### 📌 Current Projects
 
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🚀 [DialectDB](https://github.com/nilalochanbv/DialectDB-Intelligent-Database-Workspace) | Production-grade AI Database Copilot featuring NL-to-SQL, multi-database support, and query optimization | TypeScript, React, Node.js |
-| 💻 [codesync-ai](https://github.com/nilalochanbv/codesync-ai) | Real-time collaborative code editor inspired by VS Code Live Share and Replit Multiplayer | TypeScript, React, WebSockets |
-| 🍃 [Smart Leaf Scanner](https://github.com/nilalochanbv/Smart-Leaf-Scanner-and-AI-Advisory-System-using-Gemini-Ai) | AI advisory and scanning system utilizing Gemini AI to diagnose plant diseases and offer suggestions | Python, Gemini AI |
-| 🔗 [nano-link](https://github.com/nilalochanbv/nano-link) | Fast, lightweight URL shortener service to transform long URLs into clean, compact links | TypeScript, Node.js, Express |
+| [DialectDB](https://github.com/nilalochanbv/DialectDB-Intelligent-Database-Workspace) | Production-grade AI Database Copilot featuring NL-to-SQL, multi-database support, and query optimization | TypeScript, React, Node.js |
+| [codesync-ai](https://github.com/nilalochanbv/codesync-ai) | Real-time collaborative code editor inspired by VS Code Live Share and Replit Multiplayer | TypeScript, React, WebSockets |
+| [Smart Leaf Scanner](https://github.com/nilalochanbv/Smart-Leaf-Scanner-and-AI-Advisory-System-using-Gemini-Ai) | AI advisory and scanning system utilizing Gemini AI to diagnose plant diseases and offer suggestions | Python, Gemini AI |
+| [nano-link](https://github.com/nilalochanbv/nano-link) | Fast, lightweight URL shortener service to transform long URLs into clean, compact links | TypeScript, Node.js, Express |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nilalochanbv&theme=tokyonight" width="100%" alt="Nilalochan's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nilalochanbv&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" alt="stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nilalochanbv&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="languages"/>
 </p>
 
 <p align="center">
