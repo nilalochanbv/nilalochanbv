@@ -177,16 +177,8 @@ TypeScript
 
 <p align="center">
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<a href="https://leetcode.com/nilalochanbv/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
-<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge"/>
 </a>
 
 </p>
