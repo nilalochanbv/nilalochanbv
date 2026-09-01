@@ -76,16 +76,6 @@ Building scalable web applications, AI-powered solutions, and software that solv
 
 ---
 
-# 🛠 Tools & Platforms
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,linux,figma&perline=7"/>
-
-</p>
-
----
-
 
 # 📈 Coding Profiles
 
@@ -109,16 +99,6 @@ while(alive){
     repeat();
 }
 ```
-
----
-
-# 📫 Reach Me
-
-📧 **nilalochanbv@gmail.com**
-
-🌐 **https://nilalochan-portfolio.netlify.app/**
-
-💼 **https://www.linkedin.com/in/nilalochanbv/**
 
 ---
 
