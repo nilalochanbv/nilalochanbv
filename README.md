@@ -86,15 +86,6 @@ Building scalable web applications, AI-powered solutions, and software that solv
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nilalochanbv&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
 
 # 📈 Coding Profiles
 
