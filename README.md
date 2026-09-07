@@ -44,7 +44,15 @@ Building scalable web applications, AI-powered solutions, and software that solv
 - ⚡ I enjoy turning ideas into products.
 
 ---
+# 🛠️ Tech Stack
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,html,css,mysql,sqlite,git,github,vscode" />
+
+</p>
+
+---
 
 # 📊 GitHub Analytics
 
