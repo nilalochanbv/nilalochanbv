@@ -94,6 +94,17 @@ Building scalable web applications, AI-powered solutions, and software that solv
 </p>
 
 ---
+# 🏆 Achievements & Extracurriculars
+
+- 👨‍🎓 **Department Class Representative** — Dr.NGP Institute of Technology (2025 – Present)
+- 🥈 **Runner-up** — *Coding Premier League* at Kumaraguru (Mar 2024)
+- 💡 **Participant** — *Ideathon* at Bannari Amman Institute of Technology (Aug 2024)
+- 🎬 **Winner (2×)** — *Best Short Film Award* at Dr.NGP ITECH (Jun 2025 & Dec 2025)
+- ⚡ **Participant** — *CODEZAP Ecosystem Hackathon* by Origin BI (Jun 2026)
+- 🎯 **Overall Event Coordinator** — *Kanam'26 / TechFest* at Dr.NGP ITECH (Jan 2026)
+
+
+---
 
 # ☕ Fun Fact
 
