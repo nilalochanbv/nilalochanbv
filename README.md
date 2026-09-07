@@ -90,7 +90,9 @@ Building scalable web applications, AI-powered solutions, and software that solv
 <a href="https://leetcode.com/nilalochanbv/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
-
+<a href="https://www.hackerrank.com/profile/nilalochanbv12">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
 </p>
 
 ---
