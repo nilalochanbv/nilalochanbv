@@ -49,18 +49,11 @@ Building scalable web applications, AI-powered solutions, and software that solv
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" 
-       src="https://github-readme-stats.vercel.app/api?username=nilalochanbv&show_icons=true&theme=tokyonight&hide_border=true&v=1" 
-       alt="GitHub Stats" />
 
-  <img height="170" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilalochanbv&layout=compact&theme=tokyonight&hide_border=true&v=1" 
-       alt="Top Languages" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nilalochanbv&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nilalochanbv&theme=tokyonight&hide_border=true" 
-       alt="GitHub Streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilalochanbv&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
